@@ -1,0 +1,649 @@
+
+@font-face {
+    font-family: splash;
+    src: url(/Summer\ Splash\ Display.otf);
+  }
+  
+  @font-face {
+    font-family: aladin;
+    src: url(/Aladin-Regular.ttf);
+  }
+  .shoppingcart{
+    display: block;
+    position: relative;
+    left: 69em;
+    bottom:4.5em;
+    
+  }
+  
+  body {
+      background-color: #9fcdd1;
+      color: #330000;
+      font-family: Verdana;
+      
+    }
+  
+    #container {
+      margin: auto;
+      width: 75em;
+      border-style: solid;
+      padding: 0px;
+      
+    }
+  
+    #logo {
+      background-color: #29648A;
+      text-align: left;
+      border-bottom-style: none;
+      border-top-style: none;
+      height: 5.5em;
+      margin: 0px;
+      padding-top: 1em;
+      padding-left: 2em;
+      font-family: splash;
+    }
+  
+    #navbar-container {
+      background-color: #2e9cca;
+      position: relative;
+      padding-left: 1.2em;
+      left: 0px;
+      width: 8.20em;
+      height: 36.9em;
+      float: left;
+      white-space: pre-line;
+    }
+  
+    .navBar {
+      text-align: center;
+      padding-left: 1em;
+    }
+    .navBar a{
+    float: left;
+    padding: 1em;
+    color: white;
+    text-decoration: none;
+    font-size: 1em;
+    width: 25%; /* Four links of equal widths */
+    text-align: center;
+    }
+    #product{
+      width: 40em;
+    }
+    #main-container {
+      background-color: #29648A;
+      position: relative;
+      width: 64.4em;
+      height: 35.7em;
+      padding: .6em;
+      float: right;
+      overflow-y: scroll;
+      overflow-x: auto;
+      
+    }
+    .HomeText {
+      width: auto;
+      position: absolute;
+      font-size: 6em;
+      color: white;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      top: 3em;
+      left: 5.8em;
+      text-align: left;
+     
+    }
+  
+    .HomeTextBottom {
+      width: 100%;
+      position: absolute;
+      font-size: 5em;
+      color: white;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      top: 22em;
+      text-align: center;
+      left: 0em;
+      
+    }
+  
+    #WaterStation, #WaterStationLogo {
+      margin: auto;
+      display: block;
+    }
+  
+    #footer {
+      background-color: #04e2ff;
+      border-top-style: solid;
+      height: 4.5em;
+      text-align: center;
+      font-style: normal;
+      width: 75em;
+      margin-top: 36.9em;
+      padding-top: .7em;
+    }
+  
+    #SlimCapdiv, #SlimBigdiv, #SlimFaucetdiv, #RoundCapdiv, #Mineral, #Alkaline, #Slim, #Round {
+  
+      display: inline-flex;
+      text-align: center;
+      align-items: center;
+      
+    }
+    #Slim{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      position: relative;
+      top: 3em;
+      right: 16em;
+    }
+    #SlimContainer{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      position: relative;
+      top: 0px;
+      left: -1.25em;
+    }
+    .SlimText {
+      position: relative;
+      top: 1em;
+      left: 1em;
+      font-family: aladin;
+      color: white;
+      font-size: 1.3em;
+    }
+    #SlimConbutton{
+      position: relative;
+      top: 5.625em;
+      right: 8.7em;
+    }
+    #Round{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      position: relative;
+      bottom: 15.5em;
+      left: 16em;
+    }
+    #RoundContainer{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      position: relative;
+      top: 0px;
+      left: 0px;
+    }
+    .RoundText {
+      position: relative;
+      top: 1em;
+      left: 2.2em;
+      color:white;
+      font-family: aladin;
+      font-size: 1.3em;
+    }
+    #RoundConbutton{
+      position: relative;
+      top: 5.5em;
+      right: 6.875em;
+    }  
+    #containerparts{
+      background-color: #37C4FF;
+        height: 3.75em;
+        text-align: center;
+        font-style: normal;
+        width: 63.313em;
+        margin-top: 0px;
+        padding-top: .063em;
+        padding-bottom: .063em;
+    }
+    #RoundCapdiv{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      position: relative;
+      top: 3.125em;
+      right: 16.25em;
+    }
+    #RoundCap{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      position: relative;
+      top: 0px;
+      right: 0px;
+    }
+    .RoundCapText{
+      position: relative;
+      top: 1.875em;
+      left: 1.25em;
+      font-family: aladin;
+      color: white;
+      font-size: 1.25em;
+    }
+    #RoundCapbutton{
+      position: relative;
+      top: 6.5em;
+      right: 7.5em;
+    }
+   #SlimCapdiv{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: -14.063em;
+    left: 16.25em;
+   }
+   #SlimCap{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+  }
+  .SlimCapText{
+    position: relative;
+    top: .625em;
+    left: 2.7em;
+    font-family: aladin;
+    color: white;
+    align-items: center;
+    font-size: 1.25em;
+  }
+  #SlimCapbutton{
+    position: relative;
+    top: 4.688em;
+    right: 4.8em;
+  }
+   #SlimBigdiv{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: -6.25em;
+    right: 16.25em;
+   }
+   #SlimBig{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    right: 0px;
+  }
+  .SlimBigText{
+    position: relative;
+    top: 1.875em;
+    left: 1.75em;
+    font-family: aladin;
+    color: white;
+    font-size: 1.25em;
+  }
+  #SlimBigCapbutton{
+    position: relative;
+    top: 5.625em;
+    right: 7.5em;
+  }
+   #SlimFaucetdiv{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: -22.813em;
+    left: 17.5em;
+   }
+   #SlimFaucet{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+  }
+  .SlimFaucetText{
+    position: relative;
+    top: 0px;
+    left: 2.5em;
+    font-family: aladin;
+    color: white;
+    font-size: 1.25em;
+    text-align: center;
+  }
+  #SlimFaucetbutton{
+    position: relative;
+    top: 3.75em;
+    right:5em;
+  }
+    #MineralGlass{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+      position: relative;
+      top: 1.875em;
+      left: 6.25em;
+    }
+    .MineralText{
+      position: relative;
+      top: 9.25em;
+      left: -8em;
+      font-family: aladin;
+      color: rgb(255, 255, 255);
+      font-size: 1.25em;
+    }
+    #Mineralbutton{
+      position: relative;
+      top: 15.625em;
+      right: 20em;
+      
+    }
+    #AlkalineGlass{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      position: relative;
+      top: -11em;
+      left: 37.5em;
+    }
+    .AlkalineText{
+      position: relative;
+      bottom: 1.25em;
+      left: 17em;
+      font-family: aladin;
+      color: rgb(255, 255, 255);
+      font-size: 1.25em;
+    }
+    #Alkalinebutton{
+      position: relative;
+      top: 3.12em;
+      right: -12em;
+    }
+    
+    #about, #text, #p2 {
+        text-align: justify;
+        justify-content: center;
+        align-items: center;
+    }
+    
+  
+  
+    #NewContainer, #Refill, #authentication-bar {
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        font-family: aladin;
+    }
+  
+    
+    .button{
+      border: none;
+    color: white;
+    padding: .5em 1em;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1em;
+    margin: .25em .125em;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    }
+    .signupButton{
+      background-color: white; 
+      color: black; 
+      border: .125em solid #2e9cca;
+    }
+    
+    .signupButton:hover{
+      background-color: #2e9cca;
+      color: white;
+    }
+    
+    .verifyButton {
+      background-color: white;
+      color: black;
+      border: .125em solid #2e9cca;
+    }
+  
+    .verifyButton:hover{
+      background-color: #2e9cca;
+      color: white;
+    }
+  
+    .sign-inButton{
+      background-color: white; 
+      color: black; 
+      border: .125em solid #2e9cca;
+    }
+    
+    .sign-inButton:hover{
+      background-color: #2e9cca;
+      color: white;
+    }
+    .Orderbutton{
+      background-color: white; 
+      color: black; 
+      border: .125em solid #2e9cca;
+      
+    }
+   
+    
+    #checkout{
+      position: relative;
+     left: 4em;
+    }
+    .checkout:hover{
+      background-color: #2e9cca;
+      color: white;
+    }
+    .checkout{
+      background-color: white; 
+      color: black; 
+      border: .125em solid #2e9cca;
+    }
+    #details, #customerlogin, #authentication-bar,
+     #orderlist {
+      background-color: #37C4FF;
+      height: 2.5em;
+      text-align: center;
+      font-style: normal;
+      width: 64em;
+      margin-top: 0px;
+      padding-top: 0;
+    }
+  
+    #productheader, #Aboutheader, #Loginheader, #Signupheader{
+      background-color: #2e9cca;
+      height: 2.5em;
+      text-align: center;
+      font-style: normal;
+      width: 63.3em;
+      margin-top: 0px;
+      padding-top: 0;
+      padding-bottom: 0;
+    }
+  
+  #refill, #newcontainer{
+    background-color: #37C4FF;
+      height: 3.75em;
+      text-align: center;
+      font-style: normal;
+      width: 63.313em;
+      margin-top: 0px;
+      padding-top: .063em;
+      padding-bottom: .063em;
+  }
+  
+   #BF-frontpic {
+      display: none;
+      justify-content: center;
+      pointer-events: none;
+      background-color: rgb(96, 244, 255);
+      max-width: 15em;
+      width: 20%;
+      margin: auto;
+      border-radius: .063em;
+      position: absolute;
+      padding: .188em;
+      
+  }
+  
+  #BFmap {
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    justify-content: center;
+    max-width: 75em;
+    width: 100%;
+  }
+  
+  #map {
+    width: 63.75em;
+    height: 35.875em;
+    margin: 0 auto;
+    position: relative;
+  }
+  
+  .image {
+    width: 100%;
+    max-height: 15.625em;
+    max-width: 15.625em;
+    left: 2em;
+    top: 2em;
+  }
+  
+  #story {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    align-items: center;
+    font-size: 1.4em;
+    color: white;
+  }
+  
+  #schedule {
+    text-align: center;
+    align-items: center;
+    font-size: 1.5em;
+    color: white;
+  }
+  
+  
+  #name, #housenumber, #street, #subdivision, #barangay,
+    #city, #region, #province, #UsernameCustomer, #passwordCustomer
+    , #passwordConfirm, #PhoneNumber {
+      font-family: analdin;
+      text-align: left;
+      justify-content: center;
+      padding: .75em 1.25em;
+      margin: .5em 0;
+      display: inline-block;
+      border: .063em solid #ccc;
+      box-sizing: border-box;
+    }
+  .textforlogin {
+    font-size: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  .textforsignup {
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .signupPage {
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+    #username, #password {
+      font-family: analdin;
+      text-align: left;
+      justify-content: center;
+      padding: .75em 0px;
+      margin: .375em 0;
+      display: inline-block;
+      border: .063em solid #ccc;
+      box-sizing: border-box;
+    }
+  
+  
+  #loginLogo {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      position: relative;
+      bottom: 16em;
+      left: 0em;
+  }
+  
+  #Logoicon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position:relative;
+    bottom: 20em;
+    left: 16em;
+  }
+  
+  #FBlogo {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    right: 21.5em;
+    top: .438em;
+  }
+  
+  #To-verify {
+    align-items: center;
+    text-align: center;
+    
+  }
+  
+  
+  #paymentmode{
+    position: relative;
+    float: right;
+    background-color: #2e9cca;
+    width: 15em;
+    bottom: -2.5em;
+    right: 1em;
+    font-size: 1.3em;
+  }
+  
+  table th{
+    text-align: center;
+    background-color: #37C4FF;
+    color: white;
+    height: 1em;
+    margin-top: 1em;
+    padding-top: 1em;
+    font-size: 1.5em;
+    margin-bottom: 1em;
+    padding-bottom: 1em;
+  }
+  table td {
+    padding-top: 1em;
+    font-size: 1.2em;
+  }
+  table tr {
+    background-color: #d5f0fc;
+  }
+  #error {
+    background-color: rgb(255, 132, 132);
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    position: relative;
+    width: 32em;
+  }
+  
+  
+  .table-fixed tbody {
+    display: block;
+    width: auto;
+    overflow-x: scroll;
+  }
+  
+  .table-fixed tr {
+    display: block;
+  }
