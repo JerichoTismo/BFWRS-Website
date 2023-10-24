@@ -172,7 +172,7 @@ $row_count = mysqli_num_rows($select_rows);
                         We replace our filters every week and does water testing every month to ensure that we are providing the best mineral and 
                         alkaline drinking water to our customers.</p>
                     <p class="mb-0">Store Location</p>
-                    <p class="mb-0">B4 L11 E RAGAS ST. TANGCO SUBD, STA. ANA PATEROS METRO MANILA</p>
+                    <p class="mb-0">E RAGAS ST. TANGCO SUBD, STA. ANA PATEROS METRO MANILA</p>
                     <p class="mb-0">Business Hours</p>
                     <p class="mb-0">7:00 am - 5:00 pm Monday to Saturday</p>
                     <p class="mb-0">Store Location</p>
