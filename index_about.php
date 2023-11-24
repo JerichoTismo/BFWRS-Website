@@ -151,7 +151,7 @@ $username_err = $password_err = $login_err = "";
                     <div class="card-body">
                         <p>Blessed Flow is a water refilling station stationed at Pateros, Metro Manila was estabished on September of 2020.
                             The business offers all the drinking water services possible, from refilling to new containers and parts. Devilery 
-                            for customer is free of charge and we deliver to locations; Pateros, Pasig San Joaquin, Pasig Kalawaan and Makati Comembo.
+                            for customer is free of charge and we deliver to locations; Lorem
                             We replace our filters every week and does water testing every month to ensure that we are providing the best mineral and 
                             alkaline drinking water to our customers.</p>
                         <p class="mb-0"><b>Store Location</b></p>
@@ -161,9 +161,9 @@ $username_err = $password_err = $login_err = "";
                         <p class="mb-0"><b>Social Media Account</b></p>
                         <p class="mb-0">Facebook: <u><a href="https://www.facebook.com/BlessedFlowWaterRefillingStation" >BlessedFlow Water Refilling Station</a></u></p>
                         <p class="mb-0"><b>For Inquiries</b></p>
-                        <p class="mb-0">Globe: 0916-2143056</p>
-                        <p class="mb-0">Smart: 0920-4010405</p>
-                        <p class="mb-0">Telephone: (02)8641-3364</p>
+                        <p class="mb-0">Globe: Lorem</p>
+                        <p class="mb-0">Smart: Lorem</p>
+                        <p class="mb-0">Telephone: Lorem</p>
                     </div>
                 </div>
                 <!--Main layout-->
