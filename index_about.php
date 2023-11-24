@@ -149,7 +149,7 @@ $username_err = $password_err = $login_err = "";
                         <h6 class="m-0 font-weight-bold text-primary">About us!</h6>
                     </div>
                     <div class="card-body">
-                        <p>Blessed Flow is a water refilling station stationed at Pateros, Metro Manila was estabished on September of 2020.
+                        <p>Blessed Flow is a water refilling station stationed at Lorem was estabished on Lorem.
                             The business offers all the drinking water services possible, from refilling to new containers and parts. Devilery 
                             for customer is free of charge and we deliver to locations; Lorem
                             We replace our filters every week and does water testing every month to ensure that we are providing the best mineral and 
