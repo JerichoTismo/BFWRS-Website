@@ -154,7 +154,6 @@ $row_count = mysqli_num_rows($select_rows);
   <div class="container-sm">
     <!--Google map-->
     <div id="map-container-google-4" class="z-depth-1-half map-container-4" style="height: 300px">
-     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3861.9715180939183!2d121.06776031427918!3d14.54362148237082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397c89af73740b9%3A0x3f914519765ca646!2sBlessedflow%20Mineral%20Water%20Filling%20Station!5e0!3m2!1sen!2sus!4v1646216679863!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     </div>
 
   </div>
@@ -172,16 +171,16 @@ $row_count = mysqli_num_rows($select_rows);
                         We replace our filters every week and does water testing every month to ensure that we are providing the best mineral and 
                         alkaline drinking water to our customers.</p>
                     <p class="mb-0">Store Location</p>
-                    <p class="mb-0">E RAGAS ST. TANGCO SUBD, STA. ANA PATEROS METRO MANILA</p>
+                    <p class="mb-0"></p>
                     <p class="mb-0">Business Hours</p>
                     <p class="mb-0">7:00 am - 5:00 pm Monday to Saturday</p>
                     <p class="mb-0">Store Location</p>
                     <p class="mb-0">Social Media Account</p>
                     <p class="mb-0">Facebook: <a href="https://www.facebook.com/BlessedFlowWaterRefillingStation" >BlessedFlow Water Refilling Station</a></p>
                     <p class="mb-0">For Inquiries</p>
-                    <p class="mb-0">Globe: 0916-2143056</p>
-                    <p class="mb-0">Smart: 0920-4010405</p>
-                    <p class="mb-0">Telephone: (02)8641-3364</p>
+                    <p class="mb-0">Globe: Lorem</p>
+                    <p class="mb-0">Smart: Lorem</p>
+                    <p class="mb-0">Telephone: Lorem</p>
                 </div>
 </div>
 <!--Main layout-->
