@@ -138,7 +138,6 @@ $username_err = $password_err = $login_err = "";
                     <div class="container-sm">
                         <!--Google map-->
                         <div id="map-container-google-4" class="z-depth-1-half map-container-4" style="height: 300px">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3861.9715180939183!2d121.06776031427918!3d14.54362148237082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397c89af73740b9%3A0x3f914519765ca646!2sBlessedflow%20Mineral%20Water%20Filling%20Station!5e0!3m2!1sen!2sus!4v1646216679863!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                         </div>
 
                     </div>
@@ -156,7 +155,7 @@ $username_err = $password_err = $login_err = "";
                             We replace our filters every week and does water testing every month to ensure that we are providing the best mineral and 
                             alkaline drinking water to our customers.</p>
                         <p class="mb-0"><b>Store Location</b></p>
-                        <p class="mb-0">B4 L11 E RAGAS ST. TANGCO SUBD, STA. ANA PATEROS METRO MANILA</p>
+                        <p class="mb-0">Lorem Ipsolum</p>
                         <p class="mb-0"><b>Business Hours</b></p>
                         <p class="mb-0">7:00 am - 5:00 pm Monday to Saturday</p>
                         <p class="mb-0"><b>Social Media Account</b></p>
